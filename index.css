@@ -1,0 +1,134 @@
+.box1 {
+    border: 2px solid grey;
+    font-family: 'Shippori Mincho', Abel;
+    padding: 20px;
+    margin: 20px;
+    color: black;
+    font-size: larger;
+}
+#first-button{
+    background-color: #ff0000;
+    width: 20%;
+    height: 90px;
+    margin: 20px;
+    font-size: medium;
+}
+
+#second-button{
+    background-color: #ffa500;
+    width: 20%;
+    height: 90px;
+    margin: 20px;
+    font-size: medium;
+}
+
+#third-button{
+    background-color: #0066ff;
+    width: 20%;
+    height: 90px;
+    margin: 20px;
+    font-size: medium;
+}
+
+#fourth-button{
+    background-color: #00ffff;
+    width: 20%;
+    height: 90px;
+    margin: 20px;
+    font-size: medium;
+}
+.box2 {
+    border: 2px solid gray;
+    margin: 20px;
+    font-family: 'Shippori Mincho';
+}
+#shippori {
+    font-family: "Shippori Mincho";
+    text-decoration: underline;
+    margin-left: 10px;
+}
+.main-font {
+    font-family: "Shippori Mincho";
+    font-style: normal;
+    margin-left: 10px;
+}
+.italic-font {
+    font-family: "Shippori Mincho";
+    font-style: italic;
+    margin-left: 10px;
+}
+.bold-font {
+    font-family: 'Lucida Sans';
+    font-weight: 700;
+    margin-left: 10px;
+    
+}
+#abel {
+    text-decoration: underline;
+    font-family: Abel;
+    margin-left: 10px;
+
+}
+.abel-main {
+    margin-left: 10px;
+}
+.abel-italics {
+    font-style: italic;
+    font-family: Abel;  
+    margin-left: 10px;
+}
+.abel-bold {
+    font-weight: bolder;
+    font-family: Abel;
+    font-weight: 900;
+    margin-left: 10px;
+}
+#caveat {
+    text-decoration: underline;
+    font-family: 'Times New Roman';
+    margin-left: 10px;
+} 
+.caveat-normal {
+    margin-left: 10px;
+}   
+
+.caveat-italics {
+    font-weight: bold;
+    font-family: Caveat;
+    font-size: larger;
+    margin-left: 10px;
+}
+.caveat-bold {
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    font-size: large;
+    margin-left: 10px;
+}
+.box3 {
+    border: 2px solid grey;
+    margin: 20px;
+    
+}
+.style3 {
+    font-family: 'Shippori Mincho';
+    margin-left: 26px;
+    margin-left: 10px;
+}
+.listprop {
+    font-family: "Shippori Mincho";
+    margin-left: 10px;
+    margin-left: 10px;
+}
+.listprope {
+    font-family: "Shippori Mincho";
+    margin-left: 10px;
+}
+#para {
+    font-size: smaller;
+    font-weight: lighter;
+    margin-left: 10px;
+}
+.listproper {
+    font-family: "Shippori Mincho";
+    margin-left: 10px;
+}
